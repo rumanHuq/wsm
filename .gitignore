@@ -1,0 +1,5 @@
+.vscode
+*.lock
+*.log
+node_modules
+dist
